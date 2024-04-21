@@ -16,4 +16,4 @@ Prever as vendas futuras de uma loja do Walmart.
 
 ## Dicas
 
-Acesse o notebook [aqui]() para acompanhar meus primeiros testes utilizando xgboost.
+Acesse o notebook [aqui](https://github.com/bentofh/WalmartSalesForecast/blob/main/Sales%20Forecast.ipynb) para acompanhar meus primeiros testes utilizando xgboost.
